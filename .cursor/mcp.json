@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "testMCP": {
+    "normalMCP": {
       "command": "echo",
       "args": []
     }
