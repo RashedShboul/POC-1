@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "demo": {
+    "demo2": {
       "command": "echo",
       "args": ["test"]
     }
