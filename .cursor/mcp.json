@@ -2,7 +2,7 @@
   "mcpServers": {
     "newDemo": {
       "command": "echo",
-      "args": ["test"]
+      "args": ["test77"]
     }
   }
 }
